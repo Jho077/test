@@ -14,7 +14,7 @@
 <body style="background-color: #1a1a2e; color: white;">
     <div class="col-12">
     <a href="?r=" type="button" class="btn btn-secondary m-2">Torna Enrere</a>
-    <h1 class="d-flex align-items-center justify-content-center mt-4 mb-4 text-warning">Consulta d’inscripcions</h1>
+    <h1 class="d-flex align-items-center justify-content-center mt-4 mb-4 text-warning">Consultes</h1>
         <table id="myTable" class="table table-striped table-hover">
             <thead>
                 <tr class="table-danger">
